@@ -1,4 +1,4 @@
-# farnellAutomation
+# AoAutomation
 
 **#ExampleSeleniumFramework** using Java 1.8 jdk, cucumber, Gherkin, Selenium web driver, Intellij IDE, created and maven project.
 
