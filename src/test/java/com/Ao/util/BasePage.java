@@ -57,6 +57,7 @@ public class BasePage {
             driver.manage().timeouts().pageLoadTimeout(UtilPage.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS);
             driver.manage().timeouts().implicitlyWait(UtilPage.IMPLICIT_WAIT, TimeUnit.SECONDS);
             driver.get(prop.getProperty("url"));
+         //   driver.get(prop.getProperty("Homeurl"));
         }
     }
 

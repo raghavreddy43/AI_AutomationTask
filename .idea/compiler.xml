@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Maven-LexisOne" />
         <module name="Gateley-Regression-Tests" />
-        <module name="AoAutomationTask" />
         <module name="FarnellAutomationTask" />
       </profile>
     </annotationProcessing>
